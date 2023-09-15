@@ -1,0 +1,27 @@
+---
+id: 15555120
+name: Hi-Speed Re-Level
+type: Spell Card
+frameType: spell
+desc: Banish 1 "Speedroid" monster from your Graveyard, then target 1 Synchro Monster
+  you control; until the end of this turn, change its Level to the banished monster's
+  Level, and it gains ATK equal to that monster's Level x 500.
+race: Normal
+archetype: Roid
+card_sets:
+- set_name: Breakers of Shadow
+  set_code: BOSH-EN058
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.05'
+card_images:
+- id: 15555120
+  image_url: https://images.ygoprodeck.com/images/cards/15555120.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/15555120.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/15555120.jpg
+card_prices:
+- cardmarket_price: '0.09'
+  tcgplayer_price: '0.13'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.39'
